@@ -1,0 +1,19 @@
+D:\PLM\2005\PLMI0050\PLMI0050\bin\Debug\PLMI0050.exe.config
+D:\PLM\2005\PLMI0050\PLMI0050\bin\Debug\PLMI0050.exe
+D:\PLM\2005\PLMI0050\PLMI0050\bin\Debug\PLMI0050.pdb
+D:\PLM\2005\PLMI0050\PLMI0050\bin\Debug\PLMI0050.xml
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\ResolveAssemblyReference.cache
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\PLMI0050.Resources.resources
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\PLMI0050.vbproj.GenerateResource.Cache
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\PLMI0050.exe
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\PLMI0050.xml
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\PLMI0050.pdb
+D:\PLM\2005\PLMI0050\PLMI0050\obj\Debug\PLMI0050.PLMI0050.resources
+C:\Users\suwicha.srh\Desktop\Interface Vendor Master\PLMI0050\PLMI0050\bin\Debug\PLMI0050.exe.config
+C:\Users\suwicha.srh\Desktop\Interface Vendor Master\PLMI0050\PLMI0050\obj\Debug\PLMI0050.exe
+C:\Users\suwicha.srh\Desktop\Interface Vendor Master\PLMI0050\PLMI0050\obj\Debug\PLMI0050.xml
+C:\Users\suwicha.srh\Desktop\Interface Vendor Master\PLMI0050\PLMI0050\obj\Debug\PLMI0050.pdb
+D:\Desktop\PLM\Server, Config, Source Code and Fix Error\Source Code\Food\Interface\Vendor Code\20151027\CPFPLM\[PLMI0050]Interface Vendor Master\PLMI0050\PLMI0050\bin\Debug\PLMI0050.exe.config
+D:\Desktop\PLM\Server, Config, Source Code and Fix Error\Source Code\Food\Interface\Vendor Code\20151027\CPFPLM\[PLMI0050]Interface Vendor Master\PLMI0050\PLMI0050\obj\Debug\PLMI0050.exe
+D:\Desktop\PLM\Server, Config, Source Code and Fix Error\Source Code\Food\Interface\Vendor Code\20151027\CPFPLM\[PLMI0050]Interface Vendor Master\PLMI0050\PLMI0050\obj\Debug\PLMI0050.xml
+D:\Desktop\PLM\Server, Config, Source Code and Fix Error\Source Code\Food\Interface\Vendor Code\20151027\CPFPLM\[PLMI0050]Interface Vendor Master\PLMI0050\PLMI0050\obj\Debug\PLMI0050.pdb
